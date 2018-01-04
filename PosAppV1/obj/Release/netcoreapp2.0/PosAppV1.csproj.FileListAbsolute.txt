@@ -1,0 +1,11 @@
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\bin\Release\netcoreapp2.0\PosAppV1.deps.json
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\bin\Release\netcoreapp2.0\PosAppV1.runtimeconfig.json
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\bin\Release\netcoreapp2.0\PosAppV1.runtimeconfig.dev.json
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\bin\Release\netcoreapp2.0\PosAppV1.dll
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\bin\Release\netcoreapp2.0\PosAppV1.pdb
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\obj\Release\netcoreapp2.0\PosAppV1.csproj.CoreCompileInputs.cache
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\obj\Release\netcoreapp2.0\PosAppV1.AssemblyInfoInputs.cache
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\obj\Release\netcoreapp2.0\PosAppV1.AssemblyInfo.cs
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\obj\Release\netcoreapp2.0\PosAppV1.dll
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\obj\Release\netcoreapp2.0\PosAppV1.pdb
+C:\Users\siraj\Source\Repos\PosAppV1\PosAppV1\obj\Release\netcoreapp2.0\PosAppV1.csprojResolveAssemblyReference.cache
